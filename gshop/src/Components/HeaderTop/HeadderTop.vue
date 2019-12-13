@@ -15,6 +15,8 @@
   }
 </script>
 <style lang="stylus">
+  @import "../../Common/stylus/mixins.styl"; //外部调用css文件
+
   .header
         background-color #02a774
         position fixed
